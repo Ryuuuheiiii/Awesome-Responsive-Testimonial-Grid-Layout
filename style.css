@@ -33,6 +33,7 @@ body {
   padding: 0;
   line-height: 1.3s;
   font-size: 13px;
+  background: var(--clr-neutral-two);
 }
 
 main {
