@@ -76,6 +76,7 @@ main {
 @media (max-width: 600px) {
   .testimony {
     width: 375px;
+    margin-bottom: 10px;
   }
 }
 /*====================== GRID ITEMS ======================*/
